@@ -1,3 +1,3 @@
-Astra Client 4.2 (will update)
+Astra Client 5.0 (will update)
 
 Download files in releases
